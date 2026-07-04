@@ -1,20 +1,3 @@
-<!--
-  ============================================================
-  GITHUB PROFILE README — Mahak Bajpai
-  ============================================================
-  HOW TO USE:
-  1. Create a repository named EXACTLY your GitHub username
-     (e.g. "Mahakbajpai/Mahakbajpai") and make it public.
-  2. Paste this file in as README.md in that repo.
-  3. Replace placeholders marked with <-- REPLACE --> comments:
-       - Social links (LinkedIn, Twitter/X, Instagram, Email, Portfolio)
-       - Project repo links (BhoomiChain, ServiceSync, QuickFix)
-       - Resume link (optional)
-  4. GitHub username used throughout stats widgets: Mahakbajpai
-     If you ever change your username, update all
-     "?username=Mahakbajpai" and "/Mahakbajpai" occurrences below.
-  ============================================================
--->
 
 <div align="center">
 

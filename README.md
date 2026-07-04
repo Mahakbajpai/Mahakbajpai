@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Animated typing banner (readme-typing-svg by DenverCoder1) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+there%2C+I'm+Mahak+Bajpai+%F0%9F%91%8B;Backend+Developer+%7C+Problem+Solver;System+Design+%2B+Open+Source+Enthusiast;Preparing+for+GATE+%E2%9E%A1+Aiming+for+IIT+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=Hi+there%2C+I'm+Mahak+Bajpai+%F0%9F%91%8B;Backend+Developer+%7C+Problem+Solver;System+Design+%2B+Open+Source+Enthusiast;Preparing+for+GATE+%E2%9E%A1+Aiming+for+IIT+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <!-- Profile banner / hero image -->
